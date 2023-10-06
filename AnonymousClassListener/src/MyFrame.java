@@ -29,7 +29,7 @@ public class MyFrame extends JFrame {
         btn.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JButton b = (JButton)e.getSource();
+                JButton b = (JButton)e.getSource();   //특정 버튼 클릭시, 그 버튼 b 라는 버튼에 복사 
 
                 if(b.getText().equals("Action"))
                     b.setText("액션");
