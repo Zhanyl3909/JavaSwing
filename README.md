@@ -22,5 +22,9 @@
 | 14 | Sketch | [Examples](/Examples/Sketch/MyPanel.java) | 2023-10-08  | 
 | 15 | Separate GUI | [Menu](/Menu/README.md) | 2023-10-09  | 
 | 16 | Event Queue | [EventQueue](/EventQueue/README.md) | 2023-10-10  | 
+| 17 | Midterms | [Chapter-07](/Midterms/Chapter-07/CentredTest.java) | 2023-10-11  | 
+| 18 | Midterms | [Chapter-08](/Midterms/Chapter-08/) | 2023-10-11  | 
+
+
 
 
