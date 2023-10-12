@@ -25,7 +25,7 @@
 | 17 | Midterms | [Chapter-07](/Midterms/Chapter-07/CentredTest.java) | 2023-10-11  | 
 | 18 | Midterms | [Chapter-08](/Midterms/Chapter-08/README.md) | 2023-10-11  |
 | 19 | Multicast | [Multicast](/Multicast/README.md) | 2023-10-11  |
-| 20 | Midterms | [Chapter-09](/Midterms/Chapter09/ValidationTest.java) | 2023-10-12  |
+| 20 | Midterms | [Chapter-09](/Midterms/Chapter-09/ValidationTest.java) | 2023-10-12  |
 
 
 
