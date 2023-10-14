@@ -21,14 +21,13 @@
 | 13 | Mouse Event | [MouseListener](/MouseListener/src/mouse.png) | 2023-10-07  | 
 | 14 | Sketch | [Examples](/Examples/Sketch/MyPanel.java) | 2023-10-08  | 
 | 15 | Separate GUI | [Menu](/Menu/README.md) | 2023-10-09  | 
-| 16 | Event Queue | [EventQueue](/EventQueue/README.md) | 2023-10-10  | 
-| 17 | Midterms | [Chapter-07](/Midterms/Chapter-07/CentredTest.java) | 2023-10-11  | 
-| 18 | Midterms | [Chapter-08](/Midterms/Chapter-08/README.md) | 2023-10-11  |
-| 19 | Multicast | [Multicast](/Multicast/README.md) | 2023-10-11  |
-| 20 | Midterms | [Chapter-09](/Midterms/Chapter-09/ValidationTest.java) | 2023-10-12  |
-| 21 | MouseEvent | [MouseEvent](/MouseEvent/README.md) | 2023-10-13  |
-| 22 | AbstractAction | [Action](/AbstractAction_SpGUI/README.md) | 2023-10-14  |
-
+| 16 | Midterms | [Chapter-07](/Midterms/Chapter-07/CentredTest.java) | 2023-10-10  | 
+| 17 | Midterms | [Chapter-08](/Midterms/Chapter-08/README.md) | 2023-10-11  |
+| 18 | Multicast | [Multicast](/Multicast/README.md) | 2023-10-11  |
+| 19 | Midterms | [Chapter-09](/Midterms/Chapter-09/ValidationTest.java) | 2023-10-12  |
+| 20 | MouseEvent | [MouseEvent](/MouseEvent/README.md) | 2023-10-13  |
+| 21 | AbstractAction | [Action](/AbstractAction_SpGUI/README.md) | 2023-10-14  |
+| 22 | Event Queue | [EventQueue](/EventQueue/README.md) | 2023-10-14  | 
 
 
 
