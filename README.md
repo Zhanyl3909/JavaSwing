@@ -32,6 +32,7 @@
 | 24 | CheckBox | [JCheckBoxComponent](/CheckBox/README.md) | 2023-10-15  |
 | 25 | RadionButton | [JRadioButtonComponent](/RadioButton/README.md) | 2023-10-15  |
 | 26 | Border | [Border](/Border/README.md) | 2023-10-15  |
+| 27 | JList | [JListModel](/JList/README.md) | 2023-10-16  |
 
 
 
