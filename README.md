@@ -33,7 +33,7 @@
 | 25 | RadionButton | [JRadioButtonComponent](/RadioButton/README.md) | 2023-10-15  |
 | 26 | Border | [Border](/Border/README.md) | 2023-10-15  |
 | 27 | JList | [JListModel](/JList/README.md) | 2023-10-16  |
-| 28 | JList | [Package](/Packages/README.md) | 2023-10-20  |
+| 28 | Package Comprehension | [Package](/Packages/README.md) | 2023-10-20  |
 
 
 
