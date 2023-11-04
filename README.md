@@ -3,6 +3,7 @@
 ## Java GUI  
 ### 
 
+
 | # | Title | Components | Date |
 | :-----: | :---: | :---: | :---: |
 | 1 | Basic Frame |  [Frame](/Basic_Frame/src/MyFrame.png) | 2023-10-04 |
